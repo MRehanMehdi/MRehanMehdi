@@ -8,7 +8,7 @@
  <a href="https://www.fiverr.com/m_rehan_mehdi">
     <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
-  <a href="mailto:m.rehanmedi.dev@gmail.com">
+  <a href="mailto:m.rehanmehdi.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
