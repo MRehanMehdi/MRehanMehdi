@@ -3,6 +3,10 @@
 <p align="center">
  🖥️ ASP.NET MVC | .NET Core | C# Developer &nbsp;|&nbsp; Web App Specialist &nbsp;|&nbsp; Freelancer
 </p>
+<p align="center">
+  📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 
+  💼 Available for Freelance Work
+</p>
 
 <p align="center">
  <a href="https://www.fiverr.com/m_rehan_mehdi">
@@ -30,6 +34,7 @@
 | Service | Link |
 |---|---|
 | 🚀 Secure & Scalable Web App with C# & .NET | [View Gig](https://www.fiverr.com/m_rehan_mehdi/develop-secure-and-scalable-web-app-with-c-sharp-and-dot-net) |
+| 🔧 ASP.NET Web Forms App with C# & SQL Server | [View Gig](https://www.fiverr.com/m_rehan_mehdi/develop-or-fix-asp-net-web-forms-app-using-c-sharp-and-sql-server) |
 
 ---
 
