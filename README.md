@@ -1,84 +1,83 @@
-<h1 align="center">Hi, I'm Muhammad Rehan Mehdi 👋</h1>
+# Muhammad Rehan Mehdi
 
-<p align="center">
- 🖥️ ASP.NET MVC | .NET Core | C# Developer &nbsp;|&nbsp; Web App Specialist &nbsp;|&nbsp; Freelancer
-</p>
-<p align="center">
-  📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 
-  💼 Available for Freelance Work
-</p>
+**ASP.NET MVC · .NET Core · C# Developer**  
+Rawalpindi, Pakistan · Available for Freelance Engagements
 
-<p align="center">
- <a href="https://www.fiverr.com/m_rehan_mehdi">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="mailto:m.rehanmehdi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_rehan_mehdi)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehanmehdi.dev@gmail.com)
 
 ---
 
-## 🛠️ What I Build
+## About
 
-- 🔐 **Secure web apps** with role-based login & authorization (ASP.NET MVC / .NET Core)
-- 🗄️ **Database-driven systems** using Entity Framework & SQL Server
-- 📊 **Admin panels** with reporting, file uploads, and search features
-- ⚙️ **Clean architecture** projects with reusable libraries and service layers
-- 🐛 **Bug fixing & optimization** of existing C# / ASP.NET applications
+I am a .NET developer specializing in secure, database-driven web applications built with ASP.NET MVC and .NET Core. My focus is on delivering clean, maintainable solutions — from architectural design to deployment-ready code — with particular expertise in role-based authorization, Entity Framework integrations, and admin-facing tooling.
 
 ---
 
-## 💼 Hire Me on Fiverr
+## Services
 
-| Service | Link |
+| Service | Details |
 |---|---|
-| 🚀 Secure & Scalable Web App with C# & .NET | [View Gig](https://www.fiverr.com/m_rehan_mehdi/develop-secure-and-scalable-web-app-with-c-sharp-and-dot-net) |
-| 🔧 ASP.NET Web Forms App with C# & SQL Server | [View Gig](https://www.fiverr.com/m_rehan_mehdi/develop-or-fix-asp-net-web-forms-app-using-c-sharp-and-sql-server) |
+| Secure & Scalable Web Application Development | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-secure-and-scalable-web-app-with-c-sharp-and-dot-net) |
+| ASP.NET Web Forms with C# & SQL Server | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-or-fix-asp-net-web-forms-app-using-c-sharp-and-sql-server) |
 
 ---
 
-## 📌 Featured Projects
+## Areas of Expertise
 
-### 🎓 Student Management System — ASP.NET MVC 5
-> Role-based admin web app for managing student records
-
-- 🛡️ Secure admin login with role-based authorization
-- 📷 Student photo uploads & profile management
-- 📊 CSV & HTML report generation
-- 🔍 Search by name | Built with Entity Framework + SQL Server
-
-🔗 [View Repository](https://github.com/MRehanMehdi/Database-Student-Management-System)
+- Secure web applications with role-based authentication and authorization (ASP.NET MVC / .NET Core)
+- Database-driven systems using Entity Framework and SQL Server
+- Admin panels with reporting, file uploads, and advanced search functionality
+- Clean architecture projects with reusable libraries and well-defined service layers
+- Bug diagnosis and performance optimization in existing C# / ASP.NET applications
 
 ---
 
-### 🗂️ Duplicate File Finder — ASP.NET Core 9
-> Web-based tool to detect and report duplicate files on disk
+## Featured Projects
 
-- ⚡ Recursive directory scanning with MD5 hash verification
-- 📁 Two comparison modes: Size Only or Size + Name
-- 💾 Shows wasted disk space, scan time & total files
-- 🏗️ Clean architecture: separate Library + Web projects
-- Built with C# 13, Bootstrap 5, ASP.NET Core 9
+### Student Management System — ASP.NET MVC 5
 
-🔗 [View Repository](https://github.com/MRehanMehdi/Duplicate-File-Finder-GUI)
+A role-based administrative web application for managing student records in an institutional setting.
+
+**Key Features**
+- Secure admin login with role-based access control
+- Student photo uploads and profile management
+- CSV and HTML report generation
+- Name-based search with Entity Framework and SQL Server backend
+
+[View Repository](https://github.com/MRehanMehdi/Database-Student-Management-System)
 
 ---
 
-## 🧰 Tech Stack
+### Duplicate File Finder — ASP.NET Core 9
+
+A web-based utility for detecting and reporting duplicate files across directory structures.
+
+**Key Features**
+- Recursive directory scanning with MD5 hash verification
+- Two comparison modes: Size Only, or Size and Name
+- Disk space waste reporting with scan time and file count metrics
+- Clean architecture: separate Library and Web projects
+- Built with C# 13, Bootstrap 5, and ASP.NET Core 9
+
+[View Repository](https://github.com/MRehanMehdi/Duplicate-File-Finder-GUI)
+
+---
+
+## Technology Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core_9-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MRehanMehdi&show_icons=true&theme=tokyonight" />
