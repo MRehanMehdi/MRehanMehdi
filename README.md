@@ -5,12 +5,13 @@ Rawalpindi, Pakistan · Available for Freelance Engagements
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_rehan_mehdi)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehanmehdi.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRehanMehdi)
 
 ---
 
 ## About
 
-I am a .NET developer specializing in secure, database-driven web and desktop applications built with ASP.NET MVC, .NET Core, and WPF. My focus is on delivering clean, maintainable solutions — from architectural design to deployment-ready code — with particular expertise in role-based authorization, Entity Framework integrations, background services, and admin-facing tooling.
+I'm a .NET developer building secure, production-grade web and desktop applications with ASP.NET MVC, .NET Core, and WPF. My work spans full-cycle development — architecture, database design, third-party integrations, and deployment — with particular depth in role-based authorization, Entity Framework, background services, and admin/reporting tooling. I currently balance a BSCS degree with ongoing freelance client work on Fiverr.
 
 ---
 
@@ -21,6 +22,27 @@ I am a .NET developer specializing in secure, database-driven web and desktop ap
 | Secure & Scalable Web Application Development | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-secure-and-scalable-web-app-with-c-sharp-and-dot-net) |
 | ASP.NET Web Forms with C# & SQL Server | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-or-fix-asp-net-web-forms-app-using-c-sharp-and-sql-server) |
 | Custom C# / WPF Desktop Applications | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-a-custom-c-sharp-wpf-desktop-application-for-your-business) |
+
+---
+
+## Professional Experience
+
+### Backend Developer — Ride-Hailing Platform (ASP.NET Core, Long-Term Engagement)
+
+Primary backend developer on a production ride-sharing platform, working across a multi-project ASP.NET Core (.NET 8) architecture (API layer, business logic layer, admin portal).
+
+- Designed and implemented driver/rider identity verification flows using SMS-based OTP (Twilio)
+- Built a telematics, geofencing, and SOS module integrating a third-party vehicle-telemetry SDK — including SQL migrations, webhook handling, background workers, and admin UI
+- Implemented a driver background-check consent workflow with server-generated, tamper-evident PDF records
+- Diagnosed and resolved production bugs across support-ticketing (Zendesk) and messaging (Twilio) integrations
+- Worked in a distributed team alongside a dedicated Flutter mobile team and DevOps/deployment engineer
+
+### Freelance .NET Developer — Fiverr (Ongoing)
+
+Independent contractor delivering ASP.NET MVC, .NET Core, and WPF desktop solutions for international clients, including:
+
+- A Windows desktop application for automated engineering-drawing status tracking (file matching, revision control, multi-language UI, admin-protected settings)
+- Various ASP.NET Web Forms and MVC maintenance/feature projects for SQL Server-backed business applications
 
 ---
 
