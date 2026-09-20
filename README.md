@@ -1,6 +1,6 @@
 # Muhammad Rehan Mehdi
 
-**ASP.NET MVC · .NET Core · C# Developer**  
+**ASP.NET MVC · .NET Core · WPF · C# Developer**  
 Rawalpindi, Pakistan · Available for Freelance Engagements
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_rehan_mehdi)
@@ -10,7 +10,7 @@ Rawalpindi, Pakistan · Available for Freelance Engagements
 
 ## About
 
-I am a .NET developer specializing in secure, database-driven web applications built with ASP.NET MVC and .NET Core. My focus is on delivering clean, maintainable solutions — from architectural design to deployment-ready code — with particular expertise in role-based authorization, Entity Framework integrations, and admin-facing tooling.
+I am a .NET developer specializing in secure, database-driven web and desktop applications built with ASP.NET MVC, .NET Core, and WPF. My focus is on delivering clean, maintainable solutions — from architectural design to deployment-ready code — with particular expertise in role-based authorization, Entity Framework integrations, background services, and admin-facing tooling.
 
 ---
 
@@ -20,14 +20,17 @@ I am a .NET developer specializing in secure, database-driven web applications b
 |---|---|
 | Secure & Scalable Web Application Development | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-secure-and-scalable-web-app-with-c-sharp-and-dot-net) |
 | ASP.NET Web Forms with C# & SQL Server | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-or-fix-asp-net-web-forms-app-using-c-sharp-and-sql-server) |
+| Custom C# / WPF Desktop Applications | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-a-custom-c-sharp-wpf-desktop-application-for-your-business) |
 
 ---
 
 ## Areas of Expertise
 
 - Secure web applications with role-based authentication and authorization (ASP.NET MVC / .NET Core)
+- WPF desktop applications with MVVM architecture, file-system monitoring, and localization
 - Database-driven systems using Entity Framework and SQL Server
 - Admin panels with reporting, file uploads, and advanced search functionality
+- Background workers, webhook handling, and third-party API/SDK integrations (SMS, telemetry, payments)
 - Clean architecture projects with reusable libraries and well-defined service layers
 - Bug diagnosis and performance optimization in existing C# / ASP.NET applications
 
@@ -69,6 +72,7 @@ A web-based utility for detecting and reporting duplicate files across directory
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core_9-512BD4?style=flat&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white)
