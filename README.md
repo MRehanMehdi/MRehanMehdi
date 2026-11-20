@@ -1,110 +1,90 @@
 # Muhammad Rehan Mehdi
 
-**ASP.NET MVC · .NET Core · WPF · C# Developer**  
-Rawalpindi, Pakistan · Available for Freelance Engagements
+**.NET Backend Engineer · ASP.NET Core · SQL Server · Azure**<br>
+Rawalpindi, Pakistan · Remote (UTC+5) · Open to freelance and contract work
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_rehan_mehdi)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehanmehdi.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRehanMehdi)
+[![Email](https://img.shields.io/badge/Email-m.rehanmehdi700%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehanmehdi700@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Rehan%20Mehdi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehan-mehdi-23b26a2a1)
+[![X](https://img.shields.io/badge/X-@MRehanMehdi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MRehanMehdi)
+[![Fiverr](https://img.shields.io/badge/Fiverr-m__rehan__mehdi-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m_rehan_mehdi)
 
----
+## What I do
 
-## About
+I build and maintain production .NET systems for clients in the US and Europe: REST APIs, web platforms, admin portals and Windows desktop apps, from requirements through to cloud deployment.
 
-I'm a .NET developer building secure, production-grade web and desktop applications with ASP.NET MVC, .NET Core, and WPF. My work spans full-cycle development — architecture, database design, third-party integrations, and deployment — with particular depth in role-based authorization, Entity Framework, background services, and admin/reporting tooling. I currently balance a BSCS degree with ongoing freelance client work on Fiverr.
+Right now I'm the primary backend developer for a live US ride-share platform, and I'm building a cloud-hosted drawing management platform for a Dutch engineering firm on Blazor, PostgreSQL and Azure. Paid client work since 2022.
 
----
+**Need a .NET developer?** Email me with a short description of your project and I'll reply with how I'd approach it.
 
 ## Services
 
-| Service | Details |
-|---|---|
-| Secure & Scalable Web Application Development | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-secure-and-scalable-web-app-with-c-sharp-and-dot-net) |
-| ASP.NET Web Forms with C# & SQL Server | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-or-fix-asp-net-web-forms-app-using-c-sharp-and-sql-server) |
-| Custom C# / WPF Desktop Applications | [View on Fiverr](https://www.fiverr.com/m_rehan_mehdi/develop-a-custom-c-sharp-wpf-desktop-application-for-your-business) |
+- **Web platforms and APIs** with ASP.NET Core, Blazor and SQL Server or PostgreSQL
+- **Cloud deployment on Azure** with CI/CD: App Service, Key Vault, Blob Storage, GitHub Actions
+- **Payments and integrations:** Stripe Connect, Twilio, Firebase Authentication, Zendesk, Google Maps
+- **Security:** JWT, role-based access, two-factor authentication, rate limiting, audit logging
+- **Windows desktop apps** with WPF
+- **Upgrades** of legacy ASP.NET and .NET Framework apps to modern .NET
+- **AI features** added to new or existing apps
 
----
+## Experience
 
-## Professional Experience
+### Primary Backend Developer · US ride-share platform (2026 – present)
+ASP.NET Core (.NET 8 / .NET 10), EF Core, SQL Server, Stripe Connect, Firebase, Twilio, Zendesk, Google Maps
 
-### Backend Developer — Ride-Hailing Platform (ASP.NET Core, Long-Term Engagement)
+- Backend for a live product serving rider and driver Flutter apps, an admin portal and a public website
+- Ride flows end to end: dispatch, scheduled and multi-stop rides, cancellations, ratings, SOS and safety reports
+- Pricing engine with per-mile bands per ride type, tolls, and airport and state taxes
+- Stripe Connect: saved cards, weekly driver payouts and instant cash-out
+- Driver compliance: document expiry tracking with automatic lock, NYC TLC license checks against NYC Open Data with daily re-checks, background-check consent records and audit logs
+- Firebase sign-in (Google, Apple, phone) issuing JWTs, plus Twilio SMS verification with rate limiting
+- Worked with the security lead through a full platform security audit and implemented the fixes
 
-Primary backend developer on a production ride-sharing platform, working across a multi-project ASP.NET Core (.NET 8) architecture (API layer, business logic layer, admin portal).
+### .NET Developer · Dutch engineering firm (2026 – present)
+ASP.NET Core (.NET 10), Blazor WebAssembly, PostgreSQL, EF Core, Azure, GitHub Actions, WPF
 
-- Designed and implemented driver/rider identity verification flows using SMS-based OTP (Twilio)
-- Built a telematics, geofencing, and SOS module integrating a third-party vehicle-telemetry SDK — including SQL migrations, webhook handling, background workers, and admin UI
-- Implemented a driver background-check consent workflow with server-generated, tamper-evident PDF records
-- Diagnosed and resolved production bugs across support-ticketing (Zendesk) and messaging (Twilio) integrations
-- Worked in a distributed team alongside a dedicated Flutter mobile team and DevOps/deployment engineer
+**Drawing management and review platform**
+- Planned as a 6-milestone fixed-price project from a signed specification
+- Role-based access with 4 roles and 5 reviewer sub-roles, company-level data isolation
+- Mandatory two-factor authentication, recovery codes and an append-only audit log
+- Azure in EU regions: App Service, PostgreSQL Flexible Server, Key Vault, Blob Storage with managed identity, Communication Services email
+- GitHub Actions CI/CD with tests against PostgreSQL and OIDC deployments with no stored secrets
+- 690 automated unit and integration tests, English and Dutch UI, light and dark themes
 
-### Freelance .NET Developer — Fiverr (Ongoing)
+**Drawing Status Monitor (WPF desktop app)**
+- Compares engineering drawings across team folders by code, phase and revision, and flags outdated or missing files
+- Shipped as a self-contained executable, in daily use by the client
 
-Independent contractor delivering ASP.NET MVC, .NET Core, and WPF desktop solutions for international clients, including:
-
-- A Windows desktop application for automated engineering-drawing status tracking (file matching, revision control, multi-language UI, admin-protected settings)
-- Various ASP.NET Web Forms and MVC maintenance/feature projects for SQL Server-backed business applications
-
----
-
-## Areas of Expertise
-
-- Secure web applications with role-based authentication and authorization (ASP.NET MVC / .NET Core)
-- WPF desktop applications with MVVM architecture, file-system monitoring, and localization
-- Database-driven systems using Entity Framework and SQL Server
-- Admin panels with reporting, file uploads, and advanced search functionality
-- Background workers, webhook handling, and third-party API/SDK integrations (SMS, telemetry, payments)
-- Clean architecture projects with reusable libraries and well-defined service layers
-- Bug diagnosis and performance optimization in existing C# / ASP.NET applications
-
----
+### Freelance .NET Developer · Fiverr and direct clients (2022 – present)
+- Custom ASP.NET Core web apps and secure REST APIs for international clients
+- ASP.NET Web Forms maintenance on SQL Server, WPF business tools, and upgrades to modern .NET
 
 ## Featured Projects
 
-### Student Management System — ASP.NET MVC 5
+### MedPredict AI · Disease prediction web app
+Python, Flask, TensorFlow, scikit-learn, Docker
 
-A role-based administrative web application for managing student records in an institutional setting.
+Predicts likely diseases from symptoms typed in plain English, spoken, or read from an uploaded report (OCR), with confidence scores and a PDF report. Deployed with Docker.
 
-**Key Features**
-- Secure admin login with role-based access control
-- Student photo uploads and profile management
-- CSV and HTML report generation
-- Name-based search with Entity Framework and SQL Server backend
+[Repository](https://github.com/MRehanMehdi/disease-prediction)
 
-[View Repository](https://github.com/MRehanMehdi/Database-Student-Management-System)
+### TrustLedger · Pharmaceutical supply chain traceability
+Node.js, Express, PostgreSQL, Solidity, Polygon, React, Jest, GitHub Actions
 
----
+Backend developer and technical lead in a team of 3. Tracks medicine batches from manufacturer to pharmacy on the Polygon blockchain, with JWT auth and role-based access for 5 roles, and 220+ automated tests running in CI.
 
-### Duplicate File Finder — ASP.NET Core 9
+### Duplicate File Finder · ASP.NET Core 9
+Finds duplicate files by hash across folders and reports wasted disk space. Library and web projects kept separate.
 
-A web-based utility for detecting and reporting duplicate files across directory structures.
+[Repository](https://github.com/MRehanMehdi/Duplicate-File-Finder-GUI)
 
-**Key Features**
-- Recursive directory scanning with MD5 hash verification
-- Two comparison modes: Size Only, or Size and Name
-- Disk space waste reporting with scan time and file count metrics
-- Clean architecture: separate Library and Web projects
-- Built with C# 13, Bootstrap 5, and ASP.NET Core 9
+## Tech Stack
 
-[View Repository](https://github.com/MRehanMehdi/Duplicate-File-Finder-GUI)
-
----
-
-## Technology Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core_9-512BD4?style=flat&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRehanMehdi&show_icons=true&theme=tokyonight" />
-</p>
+| Area | Technologies |
+|---|---|
+| Languages | C#, T-SQL, JavaScript, TypeScript, Python |
+| Backend | ASP.NET Core, Web API, MVC, Web Forms, Blazor WebAssembly, EF Core, Node.js |
+| Databases | SQL Server, PostgreSQL, MySQL |
+| Cloud & DevOps | Azure (App Service, Key Vault, Blob Storage, Communication Services), GitHub Actions, Docker, Git |
+| Integrations | Stripe Connect, Firebase Authentication, Twilio, Zendesk, Google Maps |
+| Frontend & Desktop | React, Bootstrap, Tailwind CSS, WPF |
+| AI / ML | Python, Flask, scikit-learn, TensorFlow, pandas |
