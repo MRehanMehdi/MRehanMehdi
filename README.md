@@ -86,5 +86,5 @@ Finds duplicate files by hash across folders and reports wasted disk space. Libr
 | Databases | SQL Server, PostgreSQL, MySQL |
 | Cloud & DevOps | Azure (App Service, Key Vault, Blob Storage, Communication Services), GitHub Actions, Docker, Git |
 | Integrations | Stripe Connect, Firebase Authentication, Twilio, Zendesk, Google Maps |
-| Frontend & Desktop | React, Bootstrap, Tailwind CSS, WPF |
+| Frontend & Desktop | React, Angular, Bootstrap, Tailwind CSS, WPF |
 | AI / ML | Python, Flask, scikit-learn, TensorFlow, pandas |
